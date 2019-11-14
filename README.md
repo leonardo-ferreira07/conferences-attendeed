@@ -11,4 +11,4 @@
 - Try! Swift NYC - 2018;
 - Try! Swift Tokyo - 2019;
 - Meetup EBANX + Cocoaheads - Inside mobile @ Uber - July 2019;
-
+- NSBrazil - São Paulo - November 2019;
